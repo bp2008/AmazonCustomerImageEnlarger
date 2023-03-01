@@ -25,3 +25,11 @@ Add this Userscript:
     GM_addStyle('#seeAllImagesContainer,#cr_customers_image_gallery { width: calc(96vw - 50px) !important; height: calc(96vh - 115px) !important; }');
 })();
 ```
+
+## Screenshots
+
+### Before
+![AMZ-before-400](https://user-images.githubusercontent.com/5639911/222193806-537006f5-6cd3-47e6-ad44-625e9e029111.png)
+
+### After
+![AMZ-after-400](https://user-images.githubusercontent.com/5639911/222193798-0cafa3a6-a8d1-4181-ab38-64fab14b94c5.png)
