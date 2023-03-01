@@ -13,7 +13,7 @@ Add this Userscript:
 // @namespace    https://github.com/bp2008/AmazonCustomerImageEnlarger
 // @version      0.1
 // @description  Enlarges the panel for viewing the customer image gallery so that it fills most of the screen.
-// @author       You
+// @author       bp2008
 // @match        https://www.amazon.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @grant        GM_addStyle
