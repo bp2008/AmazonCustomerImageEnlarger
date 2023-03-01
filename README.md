@@ -1,9 +1,9 @@
 # AmazonCustomerImageEnlarger
-A UserScript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.
+A Userscript which enlarges the customer image gallery on amazon.com to make it fill most of the browser's viewport.
 
 ## Usage
 
-Install the "TamperMonkey" browser extension, or another UserScript manager of your choice.
+Install the "TamperMonkey" browser extension, or another Userscript manager of your choice.
 
 Add this Userscript:
 
